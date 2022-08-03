@@ -1,7 +1,6 @@
 # TesteBackend
 
-Lembrando:
-Para nossos projetos será avaliado o código que estiver em:
+
 1.	Orientação a Objeto
 2.	SOLID
 3.	DDD
